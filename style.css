@@ -1,0 +1,25 @@
+body{
+	background: url(https://miro.medium.com/max/12000/1*Eh1ju0aZiQP5Q6UJ-KdevQ.jpeg) no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.rowheight{
+	height: 400px;
+	margin-bottom: -75px;
+}
+
+.text{
+	color: #d1d1d1;
+}
+
+.footer{
+	background-color: #878787;
+	bottom: 0;
+	position: fixed;
+	font-size: 18px;		
+}
+
+p{
+	margin: auto;
+}
